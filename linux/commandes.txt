@@ -1,0 +1,15 @@
+ubuntu@ubuntu:~/Desktop$ history
+    1  sudo apt install slim
+    2  sudo service slim start
+    3  sudo reboot now
+    4  sudo apt install kde-plasma-desktop
+    5  sudo reboot now
+    6  ll
+    7  cd Desktop/
+    8  mm
+    9  ll
+   10  nano change_vm_config.sh
+   11  nano config.ini
+   12  chmod 744 change_vm_config.sh config.ini
+   13  ll
+   14  chmod 640 config.ini
